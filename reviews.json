@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Eugene James",
+        "company": "Personal",
+        "image": "https://raw.githubusercontent.com/angiecash/reviews/e8d44977d2fee81313fa171fcbc822b5cb31d866/reviewImages/eugenejames.png",
+        "alt": "A man wearing a collared teal shirt",
+        "stars": "4.5",
+        "comments": "Scott delivered exceptional service when repairing our home’s plumbing system. His expertise and attention to detail were remarkable, ensuring a flawless fix. He maintained clear communication and completed the job efficiently, with only a minor scheduling adjustment. Scott’s professionalism sets a high standard, and we wholeheartedly recommend him."
+    },
+    {
+        "name": "Adam Woods",
+        "company": "Personal",
+        "image": "https://raw.githubusercontent.com/angiecash/reviews/e8d44977d2fee81313fa171fcbc822b5cb31d866/reviewImages/adamwoods.png",
+        "alt": "A man wearing a dark blue hoodie",
+        "stars": "5",
+        "comments": "Scott transformed our backyard with a custom-built deck that exceeded all expectations. His craftsmanship is unparalleled, blending precision with aesthetic excellence. He completed the project on time, maintained a spotless work area, and provided insightful recommendations. Scott is a true professional, and we give him our highest endorsement."
+    },
+    {
+        "name": "Owen Caldwell",
+        "company": "BlueRidge Contracting",
+        "image": "https://raw.githubusercontent.com/angiecash/reviews/e8d44977d2fee81313fa171fcbc822b5cb31d866/reviewImages/blueridge.png",
+        "alt": "BlueRidge Contracting logo featuring a stylized blue mountain silhoutte with a house in the center, above bold white text reading the company's name",
+        "stars": "5",
+        "comments": "BlueRidge Contracting engaged Scott for a commercial drywall installation, and his performance was outstanding. His technical expertise, coupled with a proactive approach, ensured a flawless execution ahead of schedule. Scott’s ability to coordinate seamlessly with our team made him an invaluable asset. He is, without question, a top-tier handyman."
+    },
+    {
+        "name": "Tatiana Olivier",
+        "company": "Personal",
+        "image": "https://raw.githubusercontent.com/angiecash/reviews/e8d44977d2fee81313fa171fcbc822b5cb31d866/reviewImages/tatianaolivier.png",
+        "alt": "A woman wearing a white crochet sweater, standing indoors in front of a light green door",
+        "stars": "4.5",
+        "comments": "Scott’s work on our kitchen remodel was nothing short of extraordinary. His installation of custom cabinets was executed with precision, elevating the entire space. He provided regular updates and maintained a clean workspace, with only a slight delay due to material sourcing. Scott’s dedication to excellence makes him a standout professional."
+    },
+    {
+        "name": "Lee Evans",
+        "company": "Personal",
+        "image": "https://raw.githubusercontent.com/angiecash/reviews/e8d44977d2fee81313fa171fcbc822b5cb31d866/reviewImages/leeevans.png",
+        "alt": "A male wearing a blue pinstripped collared shirt",
+        "stars": "5",
+        "comments": "Scott’s expertise in repairing our home’s electrical system was remarkable. He diagnosed complex issues swiftly and implemented solutions with unmatched skill. His professionalism, punctuality, and commitment to safety were exemplary. Scott is a master of his craft, and we recommend him without reservation."
+    },
+    {
+        "name": "Sophia Marlowe",
+        "company": "Granite Anchor Builders",
+        "image": "https://raw.githubusercontent.com/angiecash/reviews/e8d44977d2fee81313fa171fcbc822b5cb31d866/reviewImages/graniteanchor.png",
+        "alt": "Logo for Granite Anchor Builders that features a black anchor in front of a yellow sun with gray mountains in the background, blue water at the base and in black text is the company's name.",
+        "stars": "5",
+        "comments": "Granite Anchor Builders enlisted Scott for a large-scale roofing project, and his performance was exemplary. His meticulous attention to detail and innovative problem-solving ensured a durable, high-quality result. Scott’s professionalism and ability to meet tight deadlines make him an exceptional partner. We look forward to future collaborations."
+    },
+    {
+        "name": "Gavin Holt",
+        "company": "Cornerstone Build Pros",
+        "image": "https://raw.githubusercontent.com/angiecash/reviews/e8d44977d2fee81313fa171fcbc822b5cb31d866/reviewImages/cornerstone.png",
+        "alt": "Logo for Cornerstone Build Pros which is a dark blue diamond shape with a sun rising in front of mountain ridges",
+        "stars": "4.5",
+        "comments": "Scott’s contribution to a bathroom renovation for Cornerstone Build Pros was outstanding. His tile work was impeccable, showcasing both skill and artistry. He maintained excellent communication, with only a minor delay due to unforeseen structural issues. Scott’s commitment to quality makes him a highly valued professional."
+    },
+    {
+        "name": "Ethan Morrow",
+        "company": "Personal",
+        "image": "https://raw.githubusercontent.com/angiecash/reviews/e8d44977d2fee81313fa171fcbc822b5cb31d866/reviewImages/ethanmorrow.png",
+        "alt": "A male wearing a dark gray collared shirt with a chest pocket, sitting indoors near an open window",
+        "stars": "5",
+        "comments": "Scott built a custom bookshelf for our home that is both functional and stunning. His craftsmanship, from design to execution, was flawless, and he completed the project ahead of schedule. His professionalism and dedication to client satisfaction are unmatched. Scott is truly exceptional."
+    },
+    {
+        "name": "Chloe Harper",
+        "company": "Personal",
+        "image": "https://raw.githubusercontent.com/angiecash/reviews/e8d44977d2fee81313fa171fcbc822b5cb31d866/reviewImages/chloeharper.png",
+        "alt": "An older woman wearing a peach-colored floral shirt with short sleeves and a necklace",
+        "stars": "5",
+        "comments": "Scott’s work painting our home’s exterior was phenomenal. His attention to detail, from prep work to the final coat, resulted in a flawless finish. He was punctual, courteous, and ensured minimal disruption. Scott’s expertise makes him the gold standard in handyman services."
+    },
+    {
+        "name": "Jacob Tanner",
+        "company": "Personal",
+        "image": "https://raw.githubusercontent.com/angiecash/reviews/e8d44977d2fee81313fa171fcbc822b5cb31d866/reviewImages/jacobtanner.png",
+        "alt": "A man wearing a light blue pinstriped collared shirt, standing indoors near a window",
+        "stars": "5",
+        "comments": "Scott repaired our storm-damaged fence with remarkable skill and efficiency. The restored fence is stronger and more visually appealing than before. His professionalism, clear communication, and fair pricing set him apart. Scott is an outstanding handyman, and we highly recommend him."
+    },
+    {
+        "name": "Mia Thornton",
+        "company": "Clearview Home Repairs",
+        "image": "https://raw.githubusercontent.com/angiecash/reviews/e8d44977d2fee81313fa171fcbc822b5cb31d866/reviewImages/clearview.png",
+        "alt": "Clearview Home Repairs logo consisting of a blue background with a simple outline of a home with a tree and their name in black text underneath",
+        "stars": "4.5",
+        "comments": "Clearview Home Repairs hired Scott for a window replacement project, and his work was exceptional. His precision and efficiency ensured a seamless installation, with only a slight delay due to weather conditions. Scott’s professionalism and high-quality results make him a trusted partner for our projects."
+    },
+    {
+        "name": "Bryce Newell",
+        "company": "Hearthstone Renovations",
+        "image": "https://raw.githubusercontent.com/angiecash/reviews/e8d44977d2fee81313fa171fcbc822b5cb31d866/reviewImages/hearthstone.png",
+        "alt": "Logo for Hearthstone Renoations which is a badge with their company name in a dark banner in the middle with a home outline and trees in front of an orange sky",
+        "stars": "4.5",
+        "comments": "Scott’s work with Hearthstone Renovations on a living room renovation was extraordinary. His installation of crown molding and baseboards added elegance to the space. A minor scheduling adjustment was handled professionally, and the final result was flawless. Scott’s expertise is highly commendable."
+    }
+]
