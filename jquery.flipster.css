@@ -119,14 +119,14 @@ div .flipster__item__content p {
 .flipster__nav__link {
   display: block;
   color: inherit;
-  padding: 0.5em 1em;
+  /* padding: 0.5em 1em; */
   position: relative;
   overflow: hidden;
   transition: all 250ms ease-out;
   transition-timing-function: cubic-bezier(0.56, 0.12, 0.12, 0.98);
 }
 .flipster__nav__link::after {
-  content: '';
+  /* content: ''; */
   display: block;
   background: #232221;
   position: absolute;
@@ -148,7 +148,7 @@ div .flipster__item__content p {
 .flipster__nav__link:hover,
 .flipster__nav__link:focus {
   color: #ff9500;
-  background-color: #000;
+  /* background-color: #000; */
 }
 .flipster__nav__item--current > .flipster__nav__link::after,
 .flipster__nav__link:hover::after,
@@ -164,19 +164,20 @@ div .flipster__item__content p {
   right: 0;
   margin-top: -1px;
   padding: 0.5em;
-  background: #4e4441;
+  /* background: #4e4441; */
   z-index: 1;
+  font-size: 22px;
 }
-.flipster__nav__child .flipster__nav__link {
+/* .flipster__nav__child .flipster__nav__link {
   color: #FFF;
-}
+} */
 .flipster__nav__child .flipster__nav__link::after {
   background: #FFF;
 }
 .flipster__nav__child .flipster__nav__item--current > .flipster__nav__link,
 .flipster__nav__child .flipster__nav__link:hover,
 .flipster__nav__child .flipster__nav__link:focus {
-  color: #571818;
+  color: #ff9500;
 }
 .flipster__nav__item--current .flipster__nav__child {
   display: block;
