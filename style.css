@@ -62,7 +62,6 @@ table {
     --dksec: #a5cdcd;
     --dktext: #f2fdfb;
     --dkred: #ac0000;
-    --tan: #a29886;
 
     /*Colors*/
     --black: #050517; 
@@ -127,10 +126,8 @@ header {
    position: relative;
    color: white;
    font-size:80px;
-   /* top: 115px; */
    text-transform: uppercase;
    text-shadow: 2px 2px 0 var(--black), 2px -2px 0 var(--black), -2px 2px 0 var(--black), -2px -2px 0 var(--black);
-   /* letter-spacing: 4px; */
 }
 header button {
     position: relative;
@@ -602,7 +599,6 @@ footer svg {
 }
 .darkMode .firstDiv {
    color: var(--dktext);
-   /* background-color: var(--ltsec); */
 }
 .darkMode form {
     color: white;
